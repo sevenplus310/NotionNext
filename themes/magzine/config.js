@@ -67,10 +67,10 @@ const CONFIG = {
         //   title: '技术讨论',
         //   href: 'https://github.com/tangly1024/NotionNext/discussions'
         // },
-        {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
-        }
+        // {
+        //   title: '关于作者',
+        //   href: 'https://blog.tangly1024.com/about'
+        // }
       ]
     },
     {
